@@ -1,5 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This is created based on what I remembered from the assignment description.
+In order to review my code please look into like.jsx and like.css files.
 ## Available Scripts
 
 In the project directory, you can run:
